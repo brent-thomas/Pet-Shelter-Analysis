@@ -1,5 +1,4 @@
 # Pet Shelter Analysis
-# Pet Shelter Analysis
 
 ## Introduction
 "Pet Shelter Analysis" is a data-driven exploration of the Austin Animal Shelter, aiming to provide insights into patterns of animal intakes and adoptions. Utilizing a dataset from Kaggle, this project leverages Python, Pandas, and Jupyter Notebook to analyze and interpret shelter data.
